@@ -53,7 +53,7 @@ Before getting started with Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer, ens
 
 Install Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer using one of the following methods:
 
-### Automatic Installation 🖥
+### 🖥Automatic Installation 
 
 1. Clone the Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer repository:
 ```sh
@@ -78,7 +78,7 @@ sudo systemctl status cpu_maintainer
 tail -f /var/log/cpu_maintainer.log
 ```
 
-### Manual Installation 🧩
+### 🧩Manual Installation 
 
 1. Install the Python dependency psutil:
 
