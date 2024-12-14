@@ -46,7 +46,7 @@ This script ensures your Oracle Cloud Always Free instance maintains a minimum C
 
 Before getting started with Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer, ensure your runtime environment meets the following requirements:
 
-- **Programming Language:** Python
+- **Programming Language:** Python, Shell
 
 
 ### ⚙️ Installation
