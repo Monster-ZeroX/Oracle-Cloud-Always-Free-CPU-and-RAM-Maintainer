@@ -114,7 +114,7 @@ kill <PID>
 
 - **💬 [Join the Discussions](https://github.com/Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer/discussions)**: Share your insights, provide feedback, or ask questions.
 - **🐛 [Report Issues](https://github.com/Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer/issues)**: Submit bugs found or log feature requests for the `Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer` project.
-- **💡 [Submit Pull Requests](https://github.com/Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💡 [Submit Pull Requests](https://github.com/Monster-ZeroX/Oracle-Cloud-Always-Free-CPU-and-RAM-Maintainer/pulls)**: Review open PRs, and submit your own PRs.
 
 
 
